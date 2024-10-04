@@ -1,2 +1,2 @@
 pyTelegramBotAPI
-hugginface_hub
+huggingface_hub
