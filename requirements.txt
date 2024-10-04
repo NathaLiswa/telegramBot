@@ -1,0 +1,2 @@
+pyTelegramBotAPI
+hugginface_hub
